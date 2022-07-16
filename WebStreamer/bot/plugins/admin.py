@@ -1,4 +1,4 @@
-# (c)  @Avishkarpatil
+# (c)  @Jot4349
 
 import os
 import time
